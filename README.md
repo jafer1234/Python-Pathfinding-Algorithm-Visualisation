@@ -1,4 +1,4 @@
-# 
+
 Python pathfinding algorithm visualization 
 
 Data visulization tool that leverages A* pathfinding algorithm.
