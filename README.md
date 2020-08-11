@@ -1,7 +1,7 @@
 # 
 Python pathfinding algorithm visualization 
 
-Data visulisation tool that leverages A* pathfinding algorithm.
+Data visulization tool that leverages A* pathfinding algorithm.
 
 Controls:
 
