@@ -3,4 +3,9 @@ Python pathfinding algorithm visualization
 
 Data visulisation tool that leverages A* pathfinding algorithm.
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.78%;position:relative;"><iframe width="360" height="208" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4b4dbj"></iframe></div><p><a href="https://imgflip.com/gif/4b4dbj">via Imgflip</a></p></div>
+Controls:
+1)"Left Click" anywhere on grid to place starting node.
+2)"Left Click" a second time anywhere on grid to place ending node.
+3)"Left Click" or hold "left click" a third time to place walls.
+3)Press "Space Bar" to initate visulisation. 
+4)Press "C" Key to reset screen.
