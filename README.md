@@ -3,7 +3,7 @@ Python pathfinding algorithm visualization
 
 Data visulization tool that leverages A* pathfinding algorithm.
 
-Controls:
+Guide:
 
 1) "Left Click" anywhere on grid to place starting node.
 
