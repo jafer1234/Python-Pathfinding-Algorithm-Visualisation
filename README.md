@@ -15,5 +15,5 @@ Guide:
 
 4) Press "C" Key to reset screen.
 
-https://github.com/jafer1234/Jafer/blob/master/ezgif.com-video-to-gif.gif?raw=true
+
 
