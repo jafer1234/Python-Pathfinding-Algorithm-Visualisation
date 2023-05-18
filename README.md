@@ -9,7 +9,7 @@ Features:
 - A* pathfinding algorithm
 - Place a start and end node
 - Place walls
-- Initiate, clear and reset visulization
+- Initiate, clear and reset visulisation
 
 ![](ezgif.com-video-to-gif.gif)
 
