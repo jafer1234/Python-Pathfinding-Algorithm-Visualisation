@@ -1,9 +1,15 @@
 
-Python Pathfinding Algorithm Visualization 
+Python Pathfinding Algorithm Visualisation 
 
 I created this project to demonstrate my ability to write and implement python code. 
 
-Below is a video demonstrating the pathfinding visulization tool, it leverages the A* pathfinding algorithm which is what drives the visulisation and produces the graphis that are seen below, other components of the project include the ability to place a starting and ending node, the ability to place walls to demonstrate the algorithms ability to navigate obstacles and the tool also includes the ability to initiate, clear and rest the visulization.
+Below is a video demonstrating the python pathfinding algorithm visulisation tool that i created, it leverages the A* pathfinding algorithm which is what drives the visulisation and produces the graphics seen below.
+
+Features:
+- A* pathfinding algorithm
+- Place a start and end node
+- Place walls
+- Initiate, clear and rest visulization
 
 ![](ezgif.com-video-to-gif.gif)
 
